@@ -1,0 +1,21 @@
+body {
+    font-family:lucida sans regular, sans-serif;
+    background-image: url("https://images7.alphacoders.com/997/thumb-1920-997786.jpg");
+    
+}
+table {
+    border-collapse: collapse;
+   
+}
+th, td {
+    font-size: 13px; 
+    border: 1px solid #000000; 
+    padding: 3px 5px; 
+    color: #303030;
+    background-image: url("https://wallpapercave.com/wp/wp5503073.jpg");
+}
+th {
+    background: #55b3ff;
+    font-size: 12px; 
+    border-color:#000000;
+}
