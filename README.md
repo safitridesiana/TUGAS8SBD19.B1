@@ -11,6 +11,7 @@ KELAS : TI.19.B1
 PRODI : TEKNIK INFORMATIKA
 
 MATA KULIAH   : SISTEM BASIS DATA
+
 DOSEN : M NAJAMUDDIN DWI MIHARJA, S. KOM., M. KOM.
 
 ====================================================
