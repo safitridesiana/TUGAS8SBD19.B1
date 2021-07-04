@@ -3,9 +3,13 @@ TUGAS 8 SISTEM BASIS DATA 19B1
 ================================
 
 NAMA  : DESIANA EKA SAFITRI
+
 NIM   : 311901817
+
 KELAS : TI.19.B1
+
 PRODI : TEKNIK INFORMATIKA
+
 MATA KULIAH   : SISTEM BASIS DATA
 DOSEN : M NAJAMUDDIN DWI MIHARJA, S. KOM., M. KOM.
 
@@ -27,6 +31,6 @@ Terdapat 3 Tabel, yaitu:
 
 ![image](https://user-images.githubusercontent.com/81596251/124377921-d9335a00-dcd8-11eb-8b83-a6f14e0c145c.png)
 
-===============================================================================================================
+====================================================================
 
 *__TERIMA KASIH__*
